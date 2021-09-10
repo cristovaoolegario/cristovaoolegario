@@ -43,4 +43,7 @@
   <a href="https://twitter.com/cristovaoole" target="blank">
     <img src="https://img.shields.io/twitter/follow/cristovaoole?logo=twitter&style=for-the-badge" alt="cristovaoole" />
   </a>
+  
+   
+  ![Snake animation](https://github.com/cristovaoolegario/cristovaoolegario/blob/output/github-contribution-grid-snake.svg)
 </div>
