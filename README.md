@@ -2,7 +2,7 @@
 <h3 align="center">A passionate consultant developer from Brazil</h3>
 
 
-- 🔭 I’m currently working on Thoughtworks, but always open to freelaces 
+- 🔭 I’m currently working on Thoughtworks, but always open to freelances 
 
 - 🌱 I’m currently learning and working with **Go and React**
 
