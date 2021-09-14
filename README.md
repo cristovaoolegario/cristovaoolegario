@@ -1,6 +1,9 @@
 <h1 align="center">Howdy 🤠👋, I'm Cristóvão </h1>
 <h3 align="center">A passionate consultant developer from Brazil</h3>
 
+🚀 🌏 
+[English](https://github.com/cristovaoolegario/cristovaoolegario/blob/main/README.md),
+[Portuguese](https://github.com/cristovaoolegario/cristovaoolegario/blob/main/README.pt-BR.md)
 
 - 🔭 I’m currently working on Thoughtworks, but always open to freelances 
 
