@@ -5,7 +5,7 @@
 [English](https://github.com/cristovaoolegario/cristovaoolegario/blob/main/README.md),
 [Portuguese](https://github.com/cristovaoolegario/cristovaoolegario/blob/main/README.pt-BR.md)
 
-- 🔭 I’m currently working on Thoughtworks, but always open to freelances 
+- 🔭 I’m currently working on Mercado Libre
 
 - 🌱 I’m currently learning and working with **Go and React**
 
