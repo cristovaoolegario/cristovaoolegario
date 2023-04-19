@@ -2,7 +2,7 @@
 <h3 align="center">Consultor de desenvolvimento de Software do Brasil</h3>
 
 
-- 🔭  Atualmente estou trabalhando na Thoughtworks, mas sempre disponível para freelances 
+- 🔭  Atualmente estou trabalhando no Mercado Livre 
 
 - 🌱  Estou estudando e trabalhando com **Go and React**
 
