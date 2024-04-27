@@ -5,11 +5,11 @@
 [English](https://github.com/cristovaoolegario/cristovaoolegario/blob/main/README.md),
 [Portuguese](https://github.com/cristovaoolegario/cristovaoolegario/blob/main/README.pt-BR.md)
 
-- 🔭 I’m currently working on Mercado Libre
+- 🔭 I’m currently working at Mercado Libre
 
-- 🌱 I’m currently learning and working with **Go and React**
+- 🌱 I’m currently working with **Go and React**
 
-- 💬 Ask me about **.net core, good pratices, TDD and consultant skills**
+- 💬 Ask me about **good pratices, TDD, microservices and consultant skills**
 
 - 😄 Pronouns: **Ele/He/il**
 
